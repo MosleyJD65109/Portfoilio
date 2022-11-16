@@ -1,3 +1,3 @@
-# Portfoilio
+# Portfolio
 
 A Python Developer that is both self-motivated and talented, who’s attention to detail is second to none, and has both exceptional organizational skills and a highly efficient work ethic. Has a Certificate in Data Analytics and Visualization from Washington University St. Louis, Missouri. Exemplary web scraping, ETL, and Machine Learning skill sets. Has a long and experienced track record of backend python programming exemplifying analytical techniques, development, and upgrading database systems. Creative analytical solutions that unwind even the most complex problems. A producer that plays a key role in the creation of files for superior data management. A fast learner who can communicate clearly and effectively as well as grasp new concepts on the fly. 
